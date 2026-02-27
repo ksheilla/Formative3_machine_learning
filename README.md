@@ -1,8 +1,9 @@
 ## Probability Distributions & Gradient Descent Analysis ##
-## Course: [Your Course Name]
-## Group Members: [Member 1], [Member 2], [Member 3], [Member 4]
+## Group Members:
+Celine LAURA ISHMWE, Loic HIGIRO, Ulrich RUKAZAMBUGA, Sheilla KEZA RUVUGABIGWI
 ## PDF for manual calculations and contributions: 
-## Project Objective##
+<link>
+## Overview ##
 
 This project explores the intersection of statistical theory and machine learning optimization. It covers the implementation of probability distributions from scratch, the application of Bayesian probability to NLP (Sentiment Analysis), and the manual and programmatic execution of Gradient Descent for linear regression.
 
