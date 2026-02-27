@@ -1,4 +1,5 @@
-## PDF for Manual Calculations and Group Contributions: https://drive.google.com/drive/folders/161SKoA1FH3522who6h5BXrYomwDLL0b2?usp=sharing
+**PDF for Manual Calculations and Group Contributions:**
+https://drive.google.com/drive/folders/161SKoA1FH3522who6h5BXrYomwDLL0b2?usp=sharing
 
 # Statistical Learning & Optimization: Probability, Bayes, and Gradient Descent
 
