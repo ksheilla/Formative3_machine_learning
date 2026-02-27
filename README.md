@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/161SKoA1FH3522who6h5BXrYomwDLL0b2?usp=sha
 # Statistical Learning & Optimization: Probability, Bayes, and Gradient Descent
 
 
-## 👥 Group Members
+##  Group Members
 * **Celine LAURA ISHMWE**
 * **Loic HIGIRO**
 * **Ulrich RUKAZAMBUGA**
